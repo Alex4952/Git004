@@ -1,12 +1,12 @@
 package zoo.fn.com.git004;
 
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
 // 주석포함해서 commit
+// 두번째 주석 넣고
 public class MainActivity extends AppCompatActivity {
 
 	@Override
