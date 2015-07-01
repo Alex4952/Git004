@@ -7,6 +7,7 @@ import android.view.MenuItem;
 
 // 주석포함해서 commit
 // 두번째 주석 넣고
+// 세번째
 public class MainActivity extends AppCompatActivity {
 
 	@Override
