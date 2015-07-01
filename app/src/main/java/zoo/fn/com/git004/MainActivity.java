@@ -6,6 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 // 맥프로 고고씽
+// 맥이 더 잘 되는것 같음
 public class MainActivity extends AppCompatActivity {
 
 	@Override
